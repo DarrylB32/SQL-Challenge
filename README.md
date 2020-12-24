@@ -7,7 +7,7 @@ As such, this project has two main focuses: Data Engineering & Data Analysis wit
 #### Data Engineering
 An [ERD](Data_Engineering/ERD.png) was created showing the relationship between the six CSV files. This ERD was then used to construct a [table schema](Data_Engineering/ERD-Documentation.pdf) for each of the CSV files to assist with importing the CSV files into SQL. 
 ![ERD](Data_Engineering/ERD.png)
-![ERD-Documentation](Data_Engineering/ERD-Documentation.pdf) 
+[ERD-Documentation](Data_Engineering/ERD-Documentation.pdf) 
 #### Data Analysis
 After creating the ERD, the CSV files were imported into SQL using **pgAdmin 4**. I produced the following lists:
 1. The employee number, last name, first name, sex, and salary pf each employee.
