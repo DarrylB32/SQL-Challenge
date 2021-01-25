@@ -25,7 +25,7 @@ After creating the ERD, the CSV files were imported into SQL using **pgAdmin 4**
 * Jupter Notebook
 
 ### User Instructions
-* Clone the repository: git clone https://github.com/DarrylB32/SQL-Employee_Database_Queries 
+* Clone the repository: git clone https://github.com/DarrylB32/SQL-Employee_Database_Queries.git  
 * Establish SQL database to query from
 * Import the tables into your database
 * Open the [Data Analysis](Data_Analysis/data_analysis.sql) schema in your SQL database and execute each statement.
